@@ -11,9 +11,8 @@
  <h3>Contatos e Redes Sociais</h3>
     
 <a href="https://instagram.com/devcodealex?igshid=ZDdkNTZiNTM="><img align="left" alt="icone do instagram" width="30px" src="https://img.icons8.com/ios-glyphs/256/instagram-new.png"/></a>
-  <a href="[link](https://www.linkedin.com/in/alex-pereira-a7618b252/)"><img align="left" alt="icone do linkedin" width="30px" src="https://img.icons8.com/ios-glyphs/256/linkedin-circled.png"/></a>
-  <a href="devcodealex@gmail.com"><img align="left" alt="icone do g-mail" width="30px" src="https://img.icons8.com/ios-glyphs/256/gmail.png"/></a>
- <br>
+  <a href="https://www.linkedin.com/in/alex-pereira-a7618b252/"><img align="left" alt="icone do linkedin" width="30px" src="https://img.icons8.com/ios-glyphs/256/linkedin-circled.png"/></a>
+<br>
 <br>
 <br>
   [![DevAlex stats](https://github-readme-stats.vercel.app/api?username=devcodealex)](https://github.com/anuraghazra/github-readme-stats)
